@@ -1,4 +1,4 @@
-LABEL org.opencontainers.image.source=https://github.com/hoenlab/immun-worker
+LABEL org.opencontainers.image.source=https://github.com/hoenlab/immun-data-portal
 
 # Replace everything below this line.
 
